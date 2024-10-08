@@ -126,7 +126,7 @@ h2 {
 
 .hero-banner {
     height: 100svh;
-    background: #fff url('../img/Background-banner1.jpg') 
+    background: #fff url('../img/background-banner1.jpg') 
     top center / cover no-repeat;
     background-attachment: fixed;
 }
